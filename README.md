@@ -19,5 +19,9 @@ Training for michael jordan images using train_cross_init.py
  
  workflow 
  <img width="1440" alt="Screenshot 2024-07-26 at 9 33 33 PM" src="https://github.com/user-attachments/assets/17534365-4e27-4877-9102-06ccdb7d3fb0">
+ 
+ output
+ <img width="933" alt="Screenshot 2024-07-26 at 9 36 52 PM" src="https://github.com/user-attachments/assets/7c58ac4e-e280-4934-bce3-766545c23597">
+
 
  
