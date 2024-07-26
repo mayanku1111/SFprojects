@@ -35,7 +35,9 @@ Just go here /drive/MyDrive/CrossInitialization/jordan_images
 
 # 4.W2W project (snap-research/weights2weights)
 
-Link for notebook [here](multiple_edits.ipynb)
+Generate outputs on the example images given
+Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](multiple_edits.ipynb)
+
 
 
   
