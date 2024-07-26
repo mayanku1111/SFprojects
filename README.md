@@ -33,6 +33,11 @@ Just go here /drive/MyDrive/CrossInitialization/jordan_images
   
   [LINK](https://github.com/JIANGJiaXiu/MC-2)
 
+# 4.W2W project (snap-research/weights2weights)
+
+Link for notebook [here](multiple_edits.ipynb)
+
+
   
 
 
