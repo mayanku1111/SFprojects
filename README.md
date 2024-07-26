@@ -11,5 +11,13 @@ Training for michael jordan images using train_cross_init.py
  Fixed TensorBoard/logging dir issue using pip install git+https://github.com/huggingface/accelerate
  
  also reduced --train_batch_size to 4 and --max_train_step to 640steps(Trained on T4 GPU )
+
+
+ 2.Replicated the process here with ComfyUI (https://www.youtube.com/watch?v=ozJUoOT0pMY) with taylor swift next to trump and yann lecun
+
+ check out here [Link](https://openart.ai/workflows/vole_mediocre_43/comfyprojectlecunswifttrump/UvT0I3zoUU4zOKWSPzbc)
  
+ workflow 
+ <img width="1440" alt="Screenshot 2024-07-26 at 9 33 33 PM" src="https://github.com/user-attachments/assets/17534365-4e27-4877-9102-06ccdb7d3fb0">
+
  
