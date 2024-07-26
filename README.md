@@ -24,4 +24,13 @@ Training for michael jordan images using train_cross_init.py
  <img width="933" alt="Screenshot 2024-07-26 at 9 36 52 PM" src="https://github.com/user-attachments/assets/7c58ac4e-e280-4934-bce3-766545c23597">
 
 
+ # 3.MC^2 Project (https://arxiv.org/pdf/2404.05268)
+ 
+  ## There is no code available for this project 
+  
+  [LINK](https://github.com/JIANGJiaXiu/MC-2)
+
+  
+
+
  
