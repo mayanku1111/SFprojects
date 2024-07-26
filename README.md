@@ -13,7 +13,7 @@ Training for michael jordan images using train_cross_init.py
  also reduced --train_batch_size to 4 and --max_train_step to 640steps(Trained on T4 GPU )
 
 
- 2.Replicated the process here with ComfyUI (https://www.youtube.com/watch?v=ozJUoOT0pMY) with taylor swift next to trump and yann lecun
+ # 2.Replicated the process here with ComfyUI (https://www.youtube.com/watch?v=ozJUoOT0pMY) with taylor swift next to trump and yann lecun
 
  check out here [Link](https://openart.ai/workflows/vole_mediocre_43/comfyprojectlecunswifttrump/UvT0I3zoUU4zOKWSPzbc)
  
