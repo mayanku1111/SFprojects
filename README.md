@@ -43,10 +43,13 @@ U can see notebook here [Link](Photo_swap.ipynb)
 
 # 6.MuDI Project 
 Have to manually create masks for precision using the Segment-Anything model to prepare dataset for personalized images
+U can see the notebook here [Link](Mudi_project.ipynb)
+
 
 # 7.MagiCapture Project
 You can see the notebook here [Link](Magicapturee7.ipynb)
 This project is compatible for conda environ,i can run it in linux terminal in vast.ai after getting gpu from vast.ai
+
 
 # 8.Cones project (https://github.com/ali-vilab/Cones-V2)
 
