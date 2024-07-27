@@ -39,6 +39,7 @@ Generated outputs on the example images given /
 Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](W2Wediting.ipynb)
 
 # 5.PhotoSwap project 
+U can see notebook here [Link](Photo_swap.ipynb)
 
 # 6.MuDI Project (https://github.com/agwmon/MuDI) 
 
