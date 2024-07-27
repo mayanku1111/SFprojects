@@ -36,7 +36,7 @@ Just go here /drive/MyDrive/CrossInitialization/jordan_images
 # 4.W2W project (snap-research/weights2weights)
 
 Generated outputs on the example images given /
-Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](multiple_edits.ipynb)
+Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](W2Wediting.ipynb)
 
 # 5.PhotoSwap project (https://github.com/eric-ai-lab/photoswap)
 
