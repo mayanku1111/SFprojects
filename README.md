@@ -38,11 +38,12 @@ Just go here /drive/MyDrive/CrossInitialization/jordan_images
 Generated outputs on the example images given /
 Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](W2Wediting.ipynb)
 
-# 5.PhotoSwap project (https://github.com/eric-ai-lab/photoswap)
+# 5.PhotoSwap project 
 
 # 6.MuDI Project (https://github.com/agwmon/MuDI) 
 
-# 7.MagiCapture Project (https://github.com/junhahyung/MagiCapture)
+# 7.MagiCapture Project
+You can see the notebook here [Link](Magicapturee7.ipynb)
 
 # 8.Cones project (https://github.com/ali-vilab/Cones-V2)
 
