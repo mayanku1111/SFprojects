@@ -41,7 +41,8 @@ Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](W2Wediting.ipynb)
 # 5.PhotoSwap project 
 U can see notebook here [Link](Photo_swap.ipynb)
 
-# 6.MuDI Project (https://github.com/agwmon/MuDI) 
+# 6.MuDI Project 
+Have to manually create masks for precision using the Segment-Anything model to prepare dataset for personalized images
 
 # 7.MagiCapture Project
 You can see the notebook here [Link](Magicapturee7.ipynb)
