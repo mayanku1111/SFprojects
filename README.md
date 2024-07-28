@@ -53,7 +53,7 @@ You can see the notebook here [Link](Magicapturee7.ipynb)
 This project is compatible for conda environ,i can run it in linux terminal in vast.ai after getting gpu from vast.ai
 
 
-# 8.Cones project (https://github.com/ali-vilab/Cones-V2)
+# 8.Cones project (Cones-V2)
 
   
 
