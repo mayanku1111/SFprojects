@@ -55,7 +55,6 @@ This project is compatible for conda environ,i can run it in linux terminal in v
 
 # 8.Cones project (Cones-V2)
 
-  
-
+ U can see the notebook here [Link](Cones_project.ipynb)
 
  
