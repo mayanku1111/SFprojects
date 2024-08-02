@@ -17,7 +17,7 @@ Training for jordan broggi images standing next to donald trump using train_cros
 U can see output images here 
 <img width="414" alt="Screenshot 2024-08-03 at 3 39 37 AM" src="https://github.com/user-attachments/assets/d33669e6-9143-4fe2-bb17-f2a3f20915a4">
 
- # 2.Replicated the process here with ComfyUI (https://www.youtube.com/watch?v=ozJUoOT0pMY) with taylor swift next to trump and yann lecun
+ # 2.Replicated the process here with ComfyUI (https://www.youtube.com/watch?v=ozJUoOT0pMY) with trump next to yann lecun
 
  check out here [Link](https://openart.ai/workflows/@vole_mediocre_43)
  
@@ -25,7 +25,7 @@ U can see output images here
  <img width="1440" alt="Screenshot 2024-07-26 at 9 33 33 PM" src="https://github.com/user-attachments/assets/17534365-4e27-4877-9102-06ccdb7d3fb0">
  
  output
- <img width="933" alt="Screenshot 2024-07-26 at 9 36 52 PM" src="https://github.com/user-attachments/assets/7c58ac4e-e280-4934-bce3-766545c23597">
+ <img width="542" alt="Screenshot 2024-08-03 at 3 47 38 AM" src="https://github.com/user-attachments/assets/77639902-8b4f-4396-bed1-940a107f8ed0">
 
 
  # 3.MC^2 Project (https://arxiv.org/pdf/2404.05268)
