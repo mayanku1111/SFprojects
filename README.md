@@ -12,7 +12,7 @@ Training for jordan broggi images standing next to donald trump using train_cros
  
  also reduced --train_batch_size to 4 and --max_train_step to 640steps(Trained on T4 GPU )
 
- ## Notebook for Output of Jordan standing next to trump here [link](Copy_of_cross.ipynb)
+ ## Notebook for Output of Jordan broggi standing next to trump here [link](Copy_of_cross.ipynb)
 
 U can see output images in drive [link](https://drive.google.com/drive/folders/1Aap44FK-Hq90ni0WNI6U7-pACvurYmwW?usp=sharing)
 Just go to CrossInitialization/jordan_images
