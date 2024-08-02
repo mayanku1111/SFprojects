@@ -14,8 +14,9 @@ Training for jordan broggi images standing next to donald trump using train_cros
 
  ## Notebook for Output of Jordan broggi standing next to trump here [link](Copy_of_cross.ipynb)
 
-U can see output images in drive [link](https://drive.google.com/drive/folders/1Aap44FK-Hq90ni0WNI6U7-pACvurYmwW?usp=sharing)
-Just go to CrossInitialization/jordan_images
+U can see output images here 
+<img width="414" alt="Screenshot 2024-08-03 at 3 39 37 AM" src="https://github.com/user-attachments/assets/d33669e6-9143-4fe2-bb17-f2a3f20915a4">
+
  # 2.Replicated the process here with ComfyUI (https://www.youtube.com/watch?v=ozJUoOT0pMY) with taylor swift next to trump and yann lecun
 
  check out here [Link](https://openart.ai/workflows/@vole_mediocre_43)
