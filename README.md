@@ -37,18 +37,24 @@ Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](W2Wediting.ipynb)
 U can see notebook here [Link](real_image_swap.ipynb)
 Yet to train on Jordan, Menear, and Yann to generate images for them(will update soon)
 
-# 5.MuDI Project 
-Have to manually create masks for precision using the Segment-Anything model to prepare dataset for personalized images
-U can see the notebook here [Link](Mudi_project.ipynb)
-
-# 6.MagiCapture Project
-You can see the notebook here [Link](Magicapturee7.ipynb)
-
-# 7.Cones project (Cones-V2)
+# 5.Cones project (Cones-V2)
 
  U can see the notebook here [Link](Copy_of_Cones_project.ipynb)
 
- # 8.MC^2 Project (https://arxiv.org/pdf/2404.05268)
+fixed layout_guidance_sampling and attention heads issues,created own guidance_config_example.json
+
+# 6.MuDI Project 
+Have to manually create masks for precision using the Segment-Anything model to prepare dataset for personalized images
+U can see the notebook here [Link](Mudi_project.ipynb)
+
+# 7.MagiCapture Project
+You can see the notebook here [Link](Magicapturee7.ipynb)
+
+# 8.Cones project (Cones-V2)
+
+ U can see the notebook here [Link](Copy_of_Cones_project.ipynb)
+
+# 9 .MC^2 Project (https://arxiv.org/pdf/2404.05268)
   
   [LINK](https://github.com/JIANGJiaXiu/MC-2)
  
