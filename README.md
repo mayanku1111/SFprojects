@@ -53,11 +53,7 @@ U can see the notebook here [Link](Mudi_project.ipynb)
 # 7.MagiCapture Project
 You can see the notebook here [Link](Magicapturee7.ipynb)
 
-# 8.Cones project (Cones-V2)
-
- U can see the notebook here [Link](Copy_of_Cones_project.ipynb)
-
-# 9 .MC^2 Project (https://arxiv.org/pdf/2404.05268)
+# 8 .MC^2 Project (https://arxiv.org/pdf/2404.05268)
   
   [LINK](https://github.com/JIANGJiaXiu/MC-2)
  
