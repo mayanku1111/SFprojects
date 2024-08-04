@@ -22,7 +22,7 @@ U can see output images here
  check out here [Link](https://openart.ai/workflows/@vole_mediocre_43)
  
  workflow 
- <img width="1440" alt="Screenshot 2024-07-26 at 9 33 33 PM" src="https://github.com/user-attachments/assets/17534365-4e27-4877-9102-06ccdb7d3fb0">
+ <img width="1386" alt="Screenshot 2024-08-04 at 11 33 27 PM" src="https://github.com/user-attachments/assets/c59dfb45-9182-427f-bec5-00fd093e80bd">
  
  output
  <img width="542" alt="Screenshot 2024-08-03 at 3 47 38 AM" src="https://github.com/user-attachments/assets/77639902-8b4f-4396-bed1-940a107f8ed0">
