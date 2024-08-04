@@ -46,7 +46,7 @@ You can see the notebook here [Link](Magicapturee7.ipynb)
 
 # 7.Cones project (Cones-V2)
 
- U can see the notebook here [Link](Cones_project.ipynb)
+ U can see the notebook here [Link](Copy_of_Cones_project.ipynb)
 
  # 8.MC^2 Project (https://arxiv.org/pdf/2404.05268)
   
