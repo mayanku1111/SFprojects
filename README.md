@@ -33,8 +33,8 @@ U can see output images here
 Notebook with inversion (image of trump) [Link](W2WSF.ipynb)
 Notebook with inversion(image of yann lecun) [Link](Copy_of_W2WSF.ipynb)
 
-Generated outputs on the example images given /
-Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](W2Wediting.ipynb)
+Generated outputs on yann lecun standing next to trump [Link](W2Winference.ipynb)
+I got a bit strange ouput idk why ,i have emailed Amil Dravid(person behind weights2weights) regarding fix,will update soon.
 
 # 4.PhotoSwap project 
 U can see notebook here [Link](real_image_swap.ipynb)
