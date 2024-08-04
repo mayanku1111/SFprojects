@@ -30,7 +30,8 @@ U can see output images here
 
 # 3.W2W project (snap-research/weights2weights)
 
-Notebook with inversion image of trump [Link](W2WSF.ipynb)
+Notebook with inversion (image of trump) [Link](W2WSF.ipynb)
+Notebook with inversion(image of yann lecun) [Link](Copy_of_W2WSF.ipynb)
 
 Generated outputs on the example images given /
 Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](W2Wediting.ipynb)
