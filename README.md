@@ -38,7 +38,7 @@ U can see output images here
 
 # 4.PhotoSwap project 
 U can see notebook here [Link](real_image_swap.ipynb)
-Yet to train on Jordan, Menear, and Yann to generate images for them(will update soon)
+Trained on Menear to generate images for him [Link](Copy_of_sd_textual_inversion_training.ipynb)
 
 # 5.Cones project (Cones-V2)
 
