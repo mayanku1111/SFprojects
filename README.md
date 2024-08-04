@@ -28,30 +28,27 @@ U can see output images here
  <img width="542" alt="Screenshot 2024-08-03 at 3 47 38 AM" src="https://github.com/user-attachments/assets/77639902-8b4f-4396-bed1-940a107f8ed0">
 
 
- # 3.MC^2 Project (https://arxiv.org/pdf/2404.05268)
- 
-  ## There is no code available for this project 
-  
-  [LINK](https://github.com/JIANGJiaXiu/MC-2)
-
-# 4.W2W project (snap-research/weights2weights)
+# 3.W2W project (snap-research/weights2weights)
 
 Generated outputs on the example images given /
 Checkout 👉🏻👉🏻👉🏻 Link for notebook [here](W2Wediting.ipynb)
 
-# 5.PhotoSwap project 
+# 4.PhotoSwap project 
 U can see notebook here [Link](real_image_swap.ipynb)
 Yet to train on Jordan, Menear, and Yann to generate images for them(will update soon)
 
-# 6.MuDI Project 
+# 5.MuDI Project 
 Have to manually create masks for precision using the Segment-Anything model to prepare dataset for personalized images
 U can see the notebook here [Link](Mudi_project.ipynb)
 
-# 7.MagiCapture Project
+# 6.MagiCapture Project
 You can see the notebook here [Link](Magicapturee7.ipynb)
 
-# 8.Cones project (Cones-V2)
+# 7.Cones project (Cones-V2)
 
  U can see the notebook here [Link](Cones_project.ipynb)
 
+ # 8.MC^2 Project (https://arxiv.org/pdf/2404.05268)
+  
+  [LINK](https://github.com/JIANGJiaXiu/MC-2)
  
