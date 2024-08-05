@@ -9,10 +9,12 @@ output images with prompt as "a {} person eating bread in front of the Eiffel To
 Training for jordan broggi images standing next to donald trump using train_cross_init.py
 
  Fixed TensorBoard/logging dir issue using pip install git+https://github.com/huggingface/accelerate
- 
- also reduced --train_batch_size to 4 and --max_train_step to 640steps(Trained on T4 GPU )
 
- ## Notebook for Output of Jordan broggi standing next to trump here [link](Copy_of_cross.ipynb)
+## Notebook for Random person standing next to Donald Trump [Link](Copy_of_Copy_of_cross.ipynb) 
+U can see the image here 
+
+
+## Notebook for Output of Jordan broggi standing next to trump here [link](Copy_of_cross.ipynb)
 
 U can see output images here 
 <img width="414" alt="Screenshot 2024-08-03 at 3 39 37 AM" src="https://github.com/user-attachments/assets/d33669e6-9143-4fe2-bb17-f2a3f20915a4">
