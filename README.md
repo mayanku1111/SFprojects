@@ -14,8 +14,6 @@ Training for jordan broggi images standing next to donald trump using train_cros
 U can see the image here 
 
 <img width="512" alt="Screenshot 2024-08-06 at 10 19 31 PM" src="https://github.com/user-attachments/assets/927a4b37-3026-4278-8ba0-d6834ad5ef6f">
-![imageT1](https://github.com/user-attachments/assets/06bfc73b-1bb0-4bbf-8a12-b562ae9f79f0)
-
 
 ## Notebook for Output of Jordan broggi standing next to trump here [link](Copy_of_cross.ipynb)
 
