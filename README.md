@@ -12,9 +12,9 @@ Training for jordan broggi images standing next to donald trump using train_cros
 
 ## Notebook for Random person standing next to Donald Trump [Link](Copy_of_Copy_of_cross.ipynb) 
 U can see the image here 
+
 ![imageT1](https://github.com/user-attachments/assets/06bfc73b-1bb0-4bbf-8a12-b562ae9f79f0)
 
-![imageT2](https://github.com/user-attachments/assets/a151e267-67c2-4799-8135-7613f5aad74e)
 
 ## Notebook for Output of Jordan broggi standing next to trump here [link](Copy_of_cross.ipynb)
 
