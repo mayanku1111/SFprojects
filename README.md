@@ -15,12 +15,8 @@ U can see the image here
 
 <img width="512" alt="Screenshot 2024-08-06 at 10 19 31 PM" src="https://github.com/user-attachments/assets/927a4b37-3026-4278-8ba0-d6834ad5ef6f">
 
-## Notebook for Output of Jordan broggi standing next to trump here [link](Copy_of_cross.ipynb)
 
-U can see output images here 
-<img width="414" alt="Screenshot 2024-08-03 at 3 39 37 AM" src="https://github.com/user-attachments/assets/d33669e6-9143-4fe2-bb17-f2a3f20915a4">
-
- # 2.Replicated the process here with ComfyUI (https://www.youtube.com/watch?v=ozJUoOT0pMY) with trump next to yann lecun
+# 2.Replicated the process here with ComfyUI (https://www.youtube.com/watch?v=ozJUoOT0pMY) with trump next to yann lecun
 
  check out here [Link](https://openart.ai/workflows/@vole_mediocre_43)
  
