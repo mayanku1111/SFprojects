@@ -23,7 +23,7 @@ U can see the image here
  workflow 
  <img width="1386" alt="Screenshot 2024-08-04 at 11 33 27 PM" src="https://github.com/user-attachments/assets/c59dfb45-9182-427f-bec5-00fd093e80bd">
 
- output(with trump next to jordan menear)
+ output(with trump next to jordan broggi)
  ![ComfyUI_temp_bypoi_00002_](https://github.com/user-attachments/assets/e385a00a-373a-4c00-91a6-3d1a41117f90)
  
  output(with trump next to lecun)
