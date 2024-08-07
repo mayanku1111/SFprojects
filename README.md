@@ -35,7 +35,7 @@ U can see the image here
 ## Notebook with inversion (image of trump) [Link](W2WSF.ipynb)
 ## Notebook with inversion(image of yann lecun) [Link](Copy_of_W2WSF.ipynb)
 
-## Generated outputs on yann lecun standing next to Taylor swift [Link](Copy_of_W2Winference.ipynb)
+## Generated outputs on lecun standing next to Taylor swift [Link](Copy_of_W2Winference.ipynb)
 
 
 # 4.PhotoSwap project 
