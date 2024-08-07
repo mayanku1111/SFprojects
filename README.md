@@ -16,7 +16,7 @@ U can see the image here
 <img width="512" alt="Screenshot 2024-08-06 at 10 19 31 PM" src="https://github.com/user-attachments/assets/927a4b37-3026-4278-8ba0-d6834ad5ef6f">
 
 
-# 2.Replicated the process here with ComfyUI (https://www.youtube.com/watch?v=ozJUoOT0pMY)
+# 2.Multi character generation using ComfyUI 
 
  check out here [Link](https://openart.ai/workflows/@vole_mediocre_43)
  
