@@ -35,8 +35,8 @@ U can see the image here
 ## Notebook with inversion (image of trump) [Link](W2WSF.ipynb)
 ## Notebook with inversion(image of yann lecun) [Link](Copy_of_W2WSF.ipynb)
 
-## Generated outputs on yann lecun standing next to trump [Link](W2Winference.ipynb)
-## I got a bit of strange output idk why ,i have emailed Amil Dravid(person behind weights2weights) regarding fix,will update soon.
+## Generated outputs on yann lecun standing next to Taylor swift [Link](Copy_of_W2Winference.ipynb)
+
 
 # 4.PhotoSwap project 
 U can see notebook here [Link](real_image_swap.ipynb)
