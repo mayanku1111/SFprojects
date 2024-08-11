@@ -54,4 +54,5 @@ You can see the notebook here [Link](Magicapturee7.ipynb)
 # 8 .MC^2 Project (https://arxiv.org/pdf/2404.05268)
   
   [LINK](https://github.com/JIANGJiaXiu/MC-2)
+  notebook [Link](run_a_composition.py)
  
