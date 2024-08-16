@@ -1,4 +1,4 @@
-# 1.Cross initialization project 
+# 1.Cross initialization project [link](https://github.com/lyuPang/CrossInitialization)
 
 You can see notebook on example images given here [Link](https://github.com/mayanku1111/SFprojects/blob/main/cross.ipynb)
 
